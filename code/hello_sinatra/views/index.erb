@@ -1,0 +1,11 @@
+<table class="table">
+  <tr>
+    <th>Message</th>
+  </tr>
+  <% tasks.each_with_index do |task, index| %>
+    <tr>
+      <td><%= task %></td>
+      <td><a href="/tasks/<%= index %>">View</a></td>
+    </tr>
+  <% end %>
+</table>
