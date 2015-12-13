@@ -1,0 +1,29 @@
+[
+  "index.md",
+  [
+    "about-ruby.md",
+    "why-ruby.md",
+    "ruby-is-versatile.md"
+    ],
+    [
+      "rubynew.md",
+      "rubynew-refined.md",
+      "object-everywhere.md",
+      "monkey-patch-everything.md",
+      "class-object.md",
+      "array.md",
+      "hash.md",
+      "blocks-1.md",
+      "blocks-2.md",
+      "iterators-1.md",
+      "collections.md",
+      "ruby-for-dsl.md"
+    ],
+    [
+      "about-sinatra.md",
+      "why-sinatra.md",
+      "installing-sinatra.md",
+      "hello-sinatra.md"
+    ],
+    "learning-resources.md"
+]
