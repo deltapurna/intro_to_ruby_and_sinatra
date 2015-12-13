@@ -15,6 +15,10 @@
   "engines": {
     "node": ">=0.8.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deltapurna/intro_to_ruby_and_sinatra.git"
+  },
   "scripts": {
     "test": "grunt test"
   }
